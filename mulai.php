@@ -1,7 +1,6 @@
 <?php
 echo "\033[31;1m  \n";
 system("clear");
-system("xdg-open https://youtube.com/channel/UCSJohuQCtqfD2P73Z65g8jg");
 system("figlet    SOEGVI");
 echo "              \033[32;1m Social Egenering Virus\n";
 echo "         \033[36;1m====================================\n";
